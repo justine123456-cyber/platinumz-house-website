@@ -1,0 +1,27 @@
+boader{
+width: 100%;
+margin: auto;	
+}
+body{
+background-color:gold;
+size: 100%;
+}
+img{
+	width:200px;
+	height:200px;
+}
+video{
+	width: 1000px;
+	height: 800px;
+}
+button{
+	background-color: white;
+	font-style: italic;
+}
+heading{
+	font-style:italic;
+	background-color: whitesmoke;
+}
+texts{
+	background-color: whitesmoke;
+}
